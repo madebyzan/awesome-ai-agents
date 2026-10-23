@@ -1709,6 +1709,24 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Knovum](https://github.com/madebyzan/knovum)
+Local-first desktop AI knowledge workspace on an infinite spatial canvas
+
+<details>
+
+![Image](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/m5s7n3yruuuvs0m7tc0x.png)
+### Category
+Knowledge Management, Research, Desktop Agent
+
+### Description
+- Knovum is a desktop-native, local-first AI knowledge workspace built on Tauri 2 and Vue 3 that brings research notes, media, PDFs, and code onto an infinite canvas.
+- Features 12 on-device AI capabilities (local Whisper transcription, TTS, vision, Qwen3 embeddings) and bidirectional Model Context Protocol (MCP) and Agent Client Protocol (ACP) support.
+
+### Links
+- [GitHub](https://github.com/madebyzan/knovum)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
